@@ -11,4 +11,4 @@ The Captcha might contain letters or 7 emojis. The 7 emojis which can be present
 6. Smile
 7. Sun
 
-The "emojis.csv" file contain dataset for the detection of emojis and for letters the MNIST dataset is used. You can access the dataset for letters from [here](https://www.kaggle.com/datasets/crawford/emnist)
+The "emojis.csv" file contain dataset for the detection of emojis and for letters the EMNIST dataset is used. You can access the dataset for letters from [here](https://www.kaggle.com/datasets/crawford/emnist)
