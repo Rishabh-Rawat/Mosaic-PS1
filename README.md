@@ -2,7 +2,7 @@
 
 The aim of this project is to detect handritten captcha from .jpg format. <br />
 
-The Captcha might contain letters or 7 emojis. The 7 emojis which can be present in the captcha are :- 
+The Captcha will contain a combination of 26 letters and 7 emojis. The 7 emojis which can be present in the captcha are :- 
 1. Checkmark
 2. Cloud
 3. Croissant
